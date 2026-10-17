@@ -52,7 +52,7 @@ Import the cloned project into Eclipse IDE.
 Create the database in MySQL:
 
 ```sql
-CREATE DATABASE banking_management_system;
+CREATE DATABASE banking_system;
 ```
 
 Create the required tables using the SQL queries and table definitions from the project source code.
@@ -64,7 +64,7 @@ Update the JDBC connection URL, username, and password in the relevant Java clas
 Example:
 
 ```java
-String url = "jdbc:mysql://localhost:3306/banking_management_system";
+String url = "jdbc:mysql://localhost:3306/banking_system";
 String username = "your_username";
 String password = "your_password";
 ```
@@ -96,9 +96,8 @@ This project helped me strengthen my understanding of Java programming, database
 
 Aspiring Java Backend Developer
 
-* GitHub: [kashishb625](https://github.com/kashishb625)
-* Project Repository: [BANKING_SYSTEM_PROJECT](https://github.com/kashishb625/BANKING_SYSTEM_PROJECT)
+* GitHub: https://github.com/kashishb625
+* Project Repository: https://github.com/kashishb625/BANKING_SYSTEM_PROJECT
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
